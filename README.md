@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence, Python, and more about Tech and Crypto
 - 💞️ I’m looking to collaborate on Projects on Python for my university
 - 📫 How to reach me at my email: konstantinoskyprianou10@gmail.com 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a very good football player. 
 
 <!---
